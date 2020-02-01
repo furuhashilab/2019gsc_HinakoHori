@@ -2,7 +2,7 @@
 ４年保利の卒論用レポジトリ
 ２０１９年度　ゼミ論文
 
-
+提出用：https://docs.google.com/document/d/1mN8rP0JoRZvQE4gBCjF3TJBCEXlUmci5V4PNvR4SbYs/edit
 
 
 
