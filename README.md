@@ -8,29 +8,10 @@
 
 タイトル
 Title
+
 Open Street MapにおけるJOSMを用いたマッピング法のマニュアル化及び相模原市内の建物データ整備
 
 
-
-
-
-
-
-
-２０２０年２月１日
-
-
-青山学院大学 地球社会共生学部 地球社会共生学科
-
-保利　日向子/Hinako Hori
-
-学生番号　１A116199
-
-
-指導教員　古橋 大地 教授
-
-
-© Furuhashi Laboratory/Taro Aoyama, CC BY 4.0
 
 # 概要
 （卒業論文の内容を４００〜６００字程度でまとめる。）
@@ -63,3 +44,5 @@ What have you learned from the study? この研究を通じて得られたもの
 
 ## Acknowledgements/謝辞:
 本研究を進めるにあたり古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
+
+© Furuhashi Laboratory/Taro Aoyama, CC BY 4.0
